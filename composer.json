@@ -1,0 +1,15 @@
+{
+    "name": "anthonyladon/exercice_4",
+    "authors": [
+        {
+            "name": "Anthony Ladon",
+            "email": "ladonanthony@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\Exeptions\\": "src/"
+        }
+    },
+    "require": {}
+}
